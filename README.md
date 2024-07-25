@@ -1,4 +1,7 @@
 # Angular Cheat Sheat:
+<img width="750px;" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*v6ucd36pXcbCjHSC1A4HTg.png"/>
+
+---
 ## 1) Giriş:
 - Angular:
 - TypeScript:
